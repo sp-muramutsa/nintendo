@@ -32,7 +32,6 @@ This project analyzes Nintendo game reviews using data from Mobygames. It includ
 2. Install the necessary Python packages:
    ```bash
    pip install pandas plotly beautifulsoup4 requests selenium
-   Ensure you have the Chrome WebDriver installed and available in your PATH.
 
 ### Running the Notebooks
 1. Open Jupyter Notebook:
